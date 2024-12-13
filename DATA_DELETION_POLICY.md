@@ -36,6 +36,6 @@ The email will automatically include your User ID, which we use to identify and 
 
 ## Contact Information
 
-If you have additional questions or need assistance, please contact us at [your-email@example.com].
+If you have additional questions or need assistance, please contact us at [chowdhuryrahulc@protonmail.com].
 
 Thank you for using our service!
